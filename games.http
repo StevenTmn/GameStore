@@ -8,8 +8,8 @@ POST http://localhost:5286/games
 Content-Type: application/json
 
 {
-    "name": "Super Mario Odyssey",
-    "genre": "Platformer",
+    "name": "Super Mario Odyssey 3 Super Deluxe",
+    "genreId": 2,
     "price": 59.99,
     "releaseDate": "2017-10-27"
 }
