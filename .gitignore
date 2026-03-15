@@ -1,0 +1,21 @@
+bin/
+obj/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Visual Studio / VS Code local files
+.vs/
+*.user
+*.suo
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+
+# Logs
+*.log
