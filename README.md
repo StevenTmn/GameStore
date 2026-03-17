@@ -1,5 +1,5 @@
 # `C#` Video Game Rental `REST API`
-This repository contains a video game catelog REST api based on Julio Casal's course: ASP.NET Core Full Course For Beginners (.NET 10) https://www.youtube.com/watch?v=YbRe4iIVYJk
+This repository contains a video game catalog REST api based on Julio Casal's course: ASP.NET Core Full Course For Beginners (.NET 10) https://www.youtube.com/watch?v=YbRe4iIVYJk
 
 ## Tech Stack
 * `C#`
