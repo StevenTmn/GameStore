@@ -4,6 +4,7 @@ This repository contains a video game catalog REST api based on Julio Casal's co
 ## Tech Stack
 * `C#`
 * `Entity Framework Core (EF Core)`
+* `ASP.NET`
 * `LINQ`
 * `SQLite`
 
