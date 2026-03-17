@@ -8,7 +8,7 @@ POST http://localhost:5286/games
 Content-Type: application/json
 
 {
-    "name": "Super Mario Odyssey 3 Super Deluxe",
+    "name": "Super Mario Odyssey 999 Super Deluxe",
     "genreId": 2,
     "price": 59.99,
     "releaseDate": "2017-10-27"
@@ -22,10 +22,10 @@ Content-Type: application/json
   {
     
     "name": "The Legend of Zelda: Breath of the Wild GOTY",
-    "genre": "Action-Adventure",
+    "genreId": 2,
     "price": 59.99,
     "releaseDate": "2017-03-03"
   }
 
 ###
-DELETE http://localhost:5286/games/2
+DELETE http://localhost:5286/games/3
